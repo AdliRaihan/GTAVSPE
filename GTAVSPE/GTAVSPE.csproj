@@ -55,16 +55,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DllMain.cs" />
-    <Compile Include="Helper\IStore.cs" />
-    <Compile Include="Helper\IConstants.cs" />
-    <Compile Include="Helper\IModule.cs" />
-    <Compile Include="DataModel\MainCharacterModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="old\Expenses\DailyExpenses.cs" />
-    <Compile Include="old\Pointer.cs" />
-    <Compile Include="old\Jobs\Taxi.cs" />
-    <Compile Include="old\Vehicle\Vehicle.cs" />
     <Compile Include="Scripts\Common\ScriptIniFiles.cs" />
     <Compile Include="Scripts\Common\ScriptExtensions.cs" />
     <Compile Include="Scripts\Common\ScriptController.cs" />
